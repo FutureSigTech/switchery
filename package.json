@@ -1,22 +1,19 @@
 {
-  "name": "switchery",
+  "name": "innoto-switchery",
   "version": "0.8.2",
   "description": "Create iOS 7 styled switches from default input checkboxes",
-  "main": "dist/switchery.js",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/abpetkov/switchery.git"
-  },
-  "author": "Alexander Petkov",
+  "main": "dist/switchery.min.js",
+  "repository": "git://github.com/abpetkov/switchery.git",
+  "author": "Alexander Pertkov (Fork innoto)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/abpetkov/switchery/issues"
   },
   "devDependencies": {
-    "uglify-js": "~2.4.8",
     "component": "^1.0.0",
-    "uglifycss": "0.0.7",
     "grunt-exec": "latest",
-    "spacejam": "latest"
+    "spacejam": "latest",
+    "uglify-js": "~2.4.8",
+    "uglifycss": "0.0.7"
   }
 }
