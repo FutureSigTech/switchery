@@ -1,5 +1,5 @@
 {
-  "name": "innoto-switchery",
+  "name": "boldest-switchery",
   "version": "0.8.2",
   "description": "Create iOS 7 styled switches from default input checkboxes",
   "main": "dist/switchery.min.js",
